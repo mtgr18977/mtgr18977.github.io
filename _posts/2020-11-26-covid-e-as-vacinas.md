@@ -9,17 +9,6 @@ Thread originalmente escrita e publicada por
 
 
 
-
-wp:separator
-
-****
-
-
-
-
-
-
-
 Vacinas normalmente demoram uns 15 anos para serem desenvolvidas. Oxford criou a vacina para COVID19 em 10 meses. Como conseguiram? É segura? Segue o fio..
 
 
@@ -52,8 +41,6 @@ O surgimento em 2012 da Síndrome Respiratória do Oriente Médio (MERS), a segu
 
 
 
-
-{"align":"center","id":441,"sizeSlug":"large","linkDestination":"none"}
 
 ![](https://spammor.files.wordpress.com/2020/11/enhuyshwmaepbcq.png?w=754)
 
@@ -134,22 +121,7 @@ Nesse tempo, o grupo de Oxford estava trabalhando no desenvolvimento de uma vaci
 
 
 
-
-wp:image {"align":"center","id":442,"sizeSlug":"large","linkDestination":"none"}
-
 ![](https://spammor.files.wordpress.com/2020/11/enh72npxcae4qpl.jpg?w=1024)
-
-/wp:image
-
-
-
-
-
-
-
-
-
-
 
 Eis que no réveillon de 2019/2020 o mundo acordou com a notícia de uma nova pneumonia viral na China. Assim que um coronavírus foi anunciado como causa, entendeu-se que a “Doença X” havia chegado.
 
