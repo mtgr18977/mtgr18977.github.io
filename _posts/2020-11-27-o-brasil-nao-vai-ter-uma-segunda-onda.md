@@ -4,7 +4,7 @@ title: O Brasil não vai ter uma segunda onda.
 tags: []
 ---
 
-###Pelo menos não de COVID.
+### Pelo menos não de COVID.
 
 
 Dia após dia batemos, mundialmente, recordes de mortes por COVID19 no mundo inteiro. Batemos os 60 milhões de infectados com 1 milhão e 430 mil mortes (provavelmente bateremos 1 milhão e 500 até o final do mês). No Brasil as cidades, principalmente as capitais, estão todas colocando seus leitos temporários de UTI para COVID de volta à ativa. Os casos começaram a subir novamente — provavelmente fruto da campanha eleitoral — e não dão indícios de que irão baixar antes do dia 1/1.
