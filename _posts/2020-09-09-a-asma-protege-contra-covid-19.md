@@ -14,7 +14,9 @@ A asma é uma condição heterogênea, caracterizada por uma inflamação eosino
 
 Além disso, nenhum dos 2.500 pacientes asmáticos encaminhados à nossa Unidade de Alergia foi hospitalizado. Até o momento não há relatórios publicados de outras condições do tipo 2 associadas à COVID-19 grave.
 
-![](https://spammor.files.wordpress.com/2020/09/1.jpg?w=1024)Contrarregulação entre as vias alérgicas e IFN- α
+![](https://spammor.files.wordpress.com/2020/09/1.jpg?w=1024)
+
+*Contrarregulação entre as vias alérgicas e IFN- α*
 
 
 Aqui, compartilhamos algumas pistas que sustentam a hipótese de que as condições do tipo 2 não representam um fator de risco, apesar da maior morbidade ocorrer devido ao dano pulmonar induzido pelo vírus SARS-CoV-2.
@@ -38,7 +40,9 @@ Embora o nosso conhecimento sobre a patogênese e os fatores de risco da COVID-1
 
 Assim como outras infecções virais respiratórias, os coronavírus podem exacerbar os sintomas da asma, particularmente em pacientes graves ou não controlados, mas sugerimos que uma imunidade distorcida de Th2 pode ser protetora contra a doença COVID-19 grave devido à regulação cruzada entre alergênicos e interferon médicos em respostas imunes controladas.
 
-![](https://spammor.files.wordpress.com/2020/09/2.jpg?w=888)Respostas sugeridas para o interferon do tipo I na infecção por SARS-Cov-2 em pacientes não asmáticos e pacientes com asma alto Th2.
+![](https://spammor.files.wordpress.com/2020/09/2.jpg?w=888) 
+
+*Respostas sugeridas para o interferon do tipo I na infecção por SARS-Cov-2 em pacientes não asmáticos e pacientes com asma alto Th2.*
 
 ## AGRADECIMENTOS
 
