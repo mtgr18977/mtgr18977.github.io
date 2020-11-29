@@ -16,6 +16,7 @@ Que a web tem problemas, todos sabemos, principalmente no tocante ao modo como F
 ***
 
 Eu queria que a web servisse à humanidade. Não é tarde demais para cumprir essa promessa.
+
 *Por Tim Berners-Lee* - O Sr. Berners-Lee é co-fundador da World Wide Web Foundation | 14 de nov. de 2013 de 2019.
 
 Meus pais eram matemáticos. Minha mãe ajudou a codificar um dos primeiros computadores de programas armazenados — o Manchester Mark 1. Eles me ensinaram que, quando você programa um computador, o que você pode fazer é limitado apenas pela sua imaginação. Essa emoção pela experimentação e mudança me ajudou a construir a internet (WWW).Eu esperava que, 30 anos após a sua criação, estaríamos usando a Web com o objetivo de servir a humanidade. 
