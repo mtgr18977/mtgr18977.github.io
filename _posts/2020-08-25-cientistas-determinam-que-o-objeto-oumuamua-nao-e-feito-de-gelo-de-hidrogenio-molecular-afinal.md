@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Cientistas determinam que o objeto ‘Oumuamua não é feito de gelo de hidrogênio
-  molecular, afinal
+title: Oumuamua não é feito de gelo de hidrogênio molecular.
 tags:
 - Astrofísica
 - Espaço

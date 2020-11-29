@@ -15,7 +15,7 @@ time-attack, mas mesmo assim eu compartilho com eles o sentimento de pertencimen
 
 
 
-**Tradução do Artig**
+**Tradução do Artigo**
 o escrito originalmente por Craig Owens para a 
 [Eurogamer](https://www.eurogamer.net/articles/2013-05-02-the-quest-for-shadow-of-the-colossuss-last-big-secret).
 

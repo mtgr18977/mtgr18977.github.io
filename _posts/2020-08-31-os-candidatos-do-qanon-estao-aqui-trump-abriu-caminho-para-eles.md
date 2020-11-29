@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Os candidatos do QAnon estão aqui. Trump abriu caminho para eles.
+title: Os candidatos do QAnon estão aqui.
 tags:
 - 4chan
 - Conspiração

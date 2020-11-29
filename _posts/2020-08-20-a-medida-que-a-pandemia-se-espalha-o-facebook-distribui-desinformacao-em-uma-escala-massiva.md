@@ -1,14 +1,15 @@
 ---
 layout: post
-title: À medida que a pandemia se espalha, o Facebook distribui desinformação em uma
-  escala massiva
+title:  Facebook distribui desinformação na pandemia
 tags:
-- Covid 19
-- Facebook
-- Fake News
-- Sarscov2
-- Tradução
----**Judd Legum | 19 de agosto**![](https://cdn-images-1.medium.com/max/1200/1*SXtGfiw4oYcWpcwcvy445A.jpeg)O Facebook fala muito sobre seus esforços para “ 
+	- Covid 19
+	- Facebook
+	- Fake News
+	- Sarscov2
+	- Tradução
+---
+
+**Judd Legum | 19 de agosto**![](https://cdn-images-1.medium.com/max/1200/1*SXtGfiw4oYcWpcwcvy445A.jpeg)O Facebook fala muito sobre seus esforços para “ 
 [manter as pessoas seguras e informadas sobre o coronavírus](https://about.fb.com/news/2020/08/coronavirus/#latest)”. De acordo com a empresa, ela está “conectando pessoas a informações confiáveis”, “combatendo a desinformação do COVID-19” e “apoiando verificadores de fatos”.Em abril o Facebook 
 [disse](https://about.fb.com/news/2020/04/covid-19-misinfo-update/) que “colocou rótulos de advertência em cerca de 50 milhões de peças de conteúdo relacionadas ao COVID-19 no Facebook, com base em cerca de 7.500 artigos de nossos parceiros independentes de verificação de fatos.”Em 15 de julho, a empresa anunciou que “conectou mais de 2 bilhões de pessoas a recursos de autoridades de saúde por meio de nosso 
 [Centro de Informações COVID-19](https://www.facebook.com/coronavirus_info/) e pop-ups no Facebook e Instagram com mais de 600 milhões de pessoas clicando para saber mais.” O Facebook diz que o centro de informações desmascara “mitos comuns que foram identificados pela Organização Mundial de Saúde, como dizer que beber água sanitária irá prevenir o coronavírus ou que tomar hidroxicloroquina pode prevenir COVID-19.”Então, é isso que o Facebook diz. Mas quão bem-sucedida tem sido a empresa no combate à desinformação sobre COVID e outros problemas de saúde?Um novo 
