@@ -2,9 +2,9 @@
 layout: post
 title: Sobre a Renda Básica Universal (RBU)
 tags:
-	- Finlandia
-	- Renda Basica Universal
-	- Tradução
+- Finlandia
+- Renda Basica Universal
+- Tradução
 ---
 
 Uma tradução do artigo 

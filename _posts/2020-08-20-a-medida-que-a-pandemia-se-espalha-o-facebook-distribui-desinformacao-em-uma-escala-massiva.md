@@ -1,12 +1,7 @@
 ---
 layout: post
 title:  Facebook distribui desinformação na pandemia
-tags:
-	- Covid 19
-	- Facebook
-	- Fake News
-	- Sarscov2
-	- Tradução
+tags: []
 ---
 
 **Judd Legum | 19 de agosto**![](https://cdn-images-1.medium.com/max/1200/1*SXtGfiw4oYcWpcwcvy445A.jpeg)O Facebook fala muito sobre seus esforços para “ 

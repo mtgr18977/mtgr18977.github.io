@@ -2,10 +2,10 @@
 layout: post
 title: Oumuamua não é feito de gelo de hidrogênio molecular.
 tags:
-	- Astrofísica
-	- Espaço
-	- Oumuamua
-	- Tradução
+- Astrofísica
+- Espaço
+- Oumuamua
+- Tradução
 ---
 
 **Por Harvard-Smithsonian Center for Astrophysics**![](https://cdn-images-1.medium.com/max/1200/1*Z7o4L14xT4XH7gWWCQKkkQ.jpeg)O debate sobre as origens e a estrutura molecular do objeto ‘Oumuamua ganhou novos contornos hoje com um anúncio no The 
