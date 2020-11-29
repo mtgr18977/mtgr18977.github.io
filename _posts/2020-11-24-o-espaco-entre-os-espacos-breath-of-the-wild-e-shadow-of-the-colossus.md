@@ -1,9 +1,10 @@
 ---
 layout: post
-title: 'O espaço entre os espaços: Breath of the Wild e Shadow of the Colossus'
+title: 'Breath of the Wild e Shadow of the Colossus'
 tags: []
 ---
 
+## O espaço entre os espaços
 *Para respirar uma nova vida, você deve lançar uma sombra*
 
 Algumas semanas atrás eu saí e comprei o remake de Shadow of the Colossus para o PS4. Ainda é um grande jogo, sem nada parecido em tom ou escala. Isso não quer dizer que não tenha inspirado outras coisas: especificamente, tenho pensado muito sobre a relação de  Shadow of the Colossus com The Legend of Zelda: Breath of the Wild — um jogo, curiosamente, que também é incomparável, mesmo entre com a inundação de jogos de mundo aberto que nos cansou nos últimos anos. Deixando de lado a implementação de Breath of the Wild da mecânica de escalada de Shadow of the Colossus (que também foi vista na  Skyward Sword, jogo anterior de Fujibayashi), bem como a escalada de Link em cima de inimigos maiores — 
