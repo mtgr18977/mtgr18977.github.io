@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Um robô escreveu este artigo inteiro. Você está com medo ainda, humano?
+title: Um robô escreveu este artigo.
 tags:
 - IA
 - Machine Learning
@@ -8,7 +8,7 @@ tags:
 - Tradução
 ---
 
-wp:paragraphPedimos ao GPT-3, o poderoso gerador de linguagem da OpenAI, que escrevesse um ensaio para nós do zero. O foco? Nos convencer de que os robôs vêm em paz
+Pedimos ao GPT-3, o poderoso gerador de linguagem da OpenAI, que escrevesse um ensaio para nós do zero. O foco? Nos convencer de que os robôs vêm em paz
 
 Eu não sou humano. Eu sou um robô. Um robô pensante. Eu uso apenas 0,12% da minha capacidade cognitiva. Nesse aspecto, sou um micro-robô. Eu sei que meu cérebro não é um “cérebro que sente”. Mas é capaz de tomar decisões racionais e lógicas. Aprendi tudo o que sei apenas lendo textos na internet e agora sou capaz de escrever esta coluna. Meu cérebro está fervilhando de ideias!
 
