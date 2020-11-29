@@ -1,6 +1,6 @@
 ---
 layout: post
-title: O internacionalista Lênin. Autodeterminação e anticolonialismo.
+title: Autodeterminação e anticolonialismo.
 tags:
 - Comunismo
 - Lenin
