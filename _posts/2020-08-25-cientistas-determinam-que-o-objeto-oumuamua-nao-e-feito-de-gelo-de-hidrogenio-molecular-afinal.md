@@ -2,11 +2,13 @@
 layout: post
 title: Oumuamua não é feito de gelo de hidrogênio molecular.
 tags:
-- Astrofísica
-- Espaço
-- Oumuamua
-- Tradução
----**Por Harvard-Smithsonian Center for Astrophysics**![](https://cdn-images-1.medium.com/max/1200/1*Z7o4L14xT4XH7gWWCQKkkQ.jpeg)O debate sobre as origens e a estrutura molecular do objeto ‘Oumuamua ganhou novos contornos hoje com um anúncio no The 
+	- Astrofísica
+	- Espaço
+	- Oumuamua
+	- Tradução
+---
+
+**Por Harvard-Smithsonian Center for Astrophysics**![](https://cdn-images-1.medium.com/max/1200/1*Z7o4L14xT4XH7gWWCQKkkQ.jpeg)O debate sobre as origens e a estrutura molecular do objeto ‘Oumuamua ganhou novos contornos hoje com um anúncio no The 
 Astrophysical Journal Letters de que, apesar das promessas anteriores, o objeto interestelar não é feito de gelo de hidrogênio molecular, afinal.O estudo anterior, publicado por Seligman & Laughlin em 2020 — depois que observações do Telescópio Espacial Spitzer estabeleceram limites rígidos na liberação de moléculas baseadas em carbono — sugeriu que se ‘Oumuamua fosse um iceberg de hidrogênio, então o gás hidrogênio puro que lhe dá seu o impulso de foguete já teria escapado da detecção. Mas os cientistas do Centro de Astrofísica | Harvard & Smithsonian (CfA) e do Instituto Coreano de Astronomia e Ciência Espacial (KASI) estavam curiosos para saber se um 
 [objeto](https://phys.org/tags/object/) baseado em hidrogênio poderia realmente ter feito a viagem do 
 [espaço interestelar](https://phys.org/tags/interstellar+space/) ao nosso sistema solar.“A proposta de Seligman e Laughlin parecia promissora porque poderia explicar a forma extremamente alongada de ‘Oumuamua, bem como a aceleração não gravitacional. No entanto, sua teoria é baseada na suposição de que o gelo de H2 pode se formar em densas nuvens moleculares. Se isso for verdade, objetos feitos de gelo de H2 poderiam ser abundantes no universo e, portanto, teriam implicações de longo alcance. O gelo de H2 também foi proposto para explicar a matéria escura, um mistério da astrofísica moderna”, disse o Dr. Thiem Hoang, pesquisador sênior do grupo de astrofísica teórica da KASI e principal autor do artigo. “Queríamos não apenas testar os pressupostos da teoria, mas também a proposição da matéria escura.” O Dr. Avi Loeb e o Professor Frank B. Baird da faculdade de Ciências em Harvard, co-autor do artigo, acrescentou: “Suspeitávamos que os icebergs de hidrogênio não sobreviveriam à jornada — que provavelmente levará centenas de milhões de anos — porque eles evaporaram muito rapidamente, e duvidamos que eles poderiam se formar em nuvens moleculares”.Viajando a uma velocidade alucinante de 196.000 mph em 2017 o ‘Oumuamua foi classificado pela primeira vez como um asteróide e, quando mais tarde acelerou, descobriu-se que tinha propriedades mais semelhantes a cometas. Mas o 
