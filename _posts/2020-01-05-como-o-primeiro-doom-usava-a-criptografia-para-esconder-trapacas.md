@@ -33,7 +33,11 @@ Então, como esse código é usado? Bem, o arquivo m_cheat.c é usado para criar
 
 Esse código cuida principalmente da verificação sobre o que você digitou enquanto jogava Doom; serve principalmente para ver se ele corresponde a um dos códigos de truques, como IDKFA ou IDDQD. Se o que você digitou corresponder a um, ele retornará um valor verdadeiro ao código de chamada e o jogo poderá ativar (ou desativar) essa trapaça.Mas a parte interessante é como esses códigos de trapaça são definidos no código fonte (e, portanto, no executável). 
 
-Aqui está um deles, o clássico IDKFA:![](https://cdn-images-1.medium.com/max/800/0*Yj1wPOvKNowfpXxj) a parte //idkfa é apenas um comentário para os programadores que leem e escrevem o código, a única parte com a qual o compilador se importa é a parte “0xb2,0x26,…”. 
+Aqui está um deles, o clássico IDKFA:
+
+![](https://cdn-images-1.medium.com/max/800/0*Yj1wPOvKNowfpXxj) 
+
+a parte //idkfa é apenas um comentário para os programadores que leem e escrevem o código, a única parte com a qual o compilador se importa é a parte “0xb2,0x26,…”. 
 
 Mas por que está escrito como 0xb2, 0x26? isso é o scancode ou algo assim? Não! 
 
@@ -43,7 +47,9 @@ Quando eles escreveram os truques no código fonte eles os pré-criptografaram c
 
 O que obviamente seria imediatamente colocado em todos os truques.Eu quase disse “site”, mas não havia muitos sites em 1993. Todos os arquivos com trapaças estavam nas seções de perguntas frequentes da USENET.Então, pré-criptografando esses truques no código fonte que eles criaram foi algo para impedir que você não pudesse encontrar rapidamente os truques pesquisando no EXE por frases em texto puro. Não sei o quanto isso os atrasou. Seria interessante examinar os arquivos dos grupos da USENET e ver quanto tempo levou para que vários truques fossem mencionados. Mas os hackers são astutos. Você precisaria de um depurador (e para um jogo em modo de 32 bits no DOS não seria fácil encontrá-lo), mas você poderia definir pontos de interrupção ao pressionar teclas e provavelmente encontraria o código de verificação de fraude bem rápido, e então descobrir como eles são codificados. Eu verifiquei a USENET. E o primeiro resultado em comp.sys.Ibm.pc.games.action (onde a maioria das discussões do Doom estava acontecendo) para “IDKFA”, foi às 8h do dia 15 de dezembro de 1993. 
 
-Elias ‘CaveMan’ Papavassilopoulos publicou esta lista de truques:![](https://cdn-images-1.medium.com/max/800/0*w465kINkLtsjEtb0)
+Elias ‘CaveMan’ Papavassilopoulos publicou esta lista de truques:
+
+![](https://cdn-images-1.medium.com/max/800/0*w465kINkLtsjEtb0)
 
 Esse tópico, intitulado “idNews: desculpe, não hoje à noite”, de David Taylor, parece ser a primeira vez que algum truque do Doom foi mencionado na USENET.O episódio de shareware de Doom foi lançado à meia-noite de 10 de dezembro de 1993. Portanto, a resposta para “quanto isso desacelerou os hackers?” Parece ser “no máximo, cinco dias”. Sendo que é possível que eles tenham sido mencionados em outros lugares na USENET antes desse post. Eu não consegui realmente pesquisar. Esse parece ter sido o principal grupo de USENET para coisas de Doom na época, então teria sido rapidamente postado se tivesse aparecido em outro lugar primeiro. Havia, mais tarde, um conjunto de grupos de notícias relacionados a Doom, mas eles não começaram a ser criados até janeiro de 1994.
 
@@ -69,7 +75,11 @@ Uma coisa interessante sobre como encontrar os truques: já no dia 11, alguém (
 
 No dia 12, as pessoas estavam hackeando seus arquivos de jogos salvos para obter todas as armas, mesmo que ainda não tivessem nenhum código de trapaça: [4]
 
-![](https://cdn-images-1.medium.com/max/800/0*bSsEFTMCRVZA4PJa)O fato de eles encontrarem outros mais longos, como Chopper & Spispopd, me faz pensar que os truques foram finalmente descobertos por alguém depurando o EXE (em vez de apenas digitar combinações de teclas até encontrar algo que funcionasse), e eles perderam o IDDT porque este estava em outro lugarTodos os outros truques estão em st_stuff.c, mas o IDDT está em am_map.c![](https://cdn-images-1.medium.com/max/800/0*jSwtIqMOtFkKWngO)
+![](https://cdn-images-1.medium.com/max/800/0*bSsEFTMCRVZA4PJa)
+
+O fato de eles encontrarem outros mais longos, como Chopper & Spispopd, me faz pensar que os truques foram finalmente descobertos por alguém depurando o EXE (em vez de apenas digitar combinações de teclas até encontrar algo que funcionasse), e eles perderam o IDDT porque este estava em outro lugarTodos os outros truques estão em st_stuff.c, mas o IDDT está em am_map.c
+
+![](https://cdn-images-1.medium.com/max/800/0*jSwtIqMOtFkKWngO)
 
 E sendo os compiladores o que são, isso provavelmente acabará em outro lugar no executável. 
 
@@ -85,7 +95,11 @@ Aliás, Elias Papavassilopoulos passaria a fazer um Doom (com Steve McCrea e Sim
 
 Ainda, já foi perguntado “por que a ID Software se incomodou com isso?” E porque Wolf3D pode ser a resposta: é mencionado no manual de dicas Wolfenstein 3D que algumas pessoas hackearam o Wolf3D e fizeram com que o concurso oculto fosse cancelado (porque não seria justo)
 
-!![](https://cdn-images-1.medium.com/max/800/0*HokDRrMFLvOVRlDC)Esse concurso era esse objeto estranho escondido em um labirinto no episódio 2, nível 8.![](https://cdn-images-1.medium.com/max/800/0*gVb_Lwx2DtSSMqhQ)
+!![](https://cdn-images-1.medium.com/max/800/0*HokDRrMFLvOVRlDC)
+
+Esse concurso era esse objeto estranho escondido em um labirinto no episódio 2, nível 8.
+
+![](https://cdn-images-1.medium.com/max/800/0*gVb_Lwx2DtSSMqhQ)
 
 Não havia concurso equivalente no Doom, mas talvez eles quisessem tornar o Doom um pouco mais difícil de hackear por causa da rapidez com que as pessoas estavam fazendo isso com Wolf3D e mapeando-o.
 
