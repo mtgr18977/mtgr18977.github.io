@@ -2,9 +2,11 @@
 layout: about
 ---
 
-These are controlled by `about.md` under the root directory. If you want a more diverse self-introduction, you can insert the markdown content you want here.
+## Escrevendo por aí desde 2003, mais ou menos.
 
-### What's New
-
-- One paper got accepted in xxx 2019.
-- I'm going to join xxx as a xxx 2019 Fall.
+ - [Medium](https://medium.com/pensamentos-rasos)
+ - [Mastodon](@paulogpd@mastodon.social)
+ - [Instagram](https://www.instagram.com/paulopilottiduarte/)
+ - [Facebook](https://www.facebook.com/paulopilottiduarte/)
+ - [Twitter](https://twitter.com/paulo_pilotti)
+ - [Telegram](@paulopilotti)
