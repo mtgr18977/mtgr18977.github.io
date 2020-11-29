@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Supremacia branca e videogames: o problema que mora ao lado.'
+title: 'Supremacia branca e videogames'
 tags:
 - Traduções
 - Video Games
