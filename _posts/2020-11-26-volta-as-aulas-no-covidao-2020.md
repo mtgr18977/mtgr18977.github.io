@@ -31,35 +31,28 @@ Mesmo assim o governo criou um plano de abertura das escolas estaduais e privada
 
 
 
-
-wp:list
-
 ***Problema 1:**
  a maioria do corpo docente e dos servidores da rede estadual tem algum tipo de comorbidade ou está na faixa etária de risco (+60 anos). Isso gerou um déficit ainda maior de professores (algo ao redor de 3 mil) em todos o estado.
+
 ***Problema 2:**
  muitas crianças não tem acesso à telefone próprio, o que inviabiliza o uso do plano de dados do governo. A solução inicial para esse problema foi a compra de Chromebooks que deveria ter sido entregues aos alunos e professores em agosto (até hoje, às portas de dezembro, não foram entregues contudo) para minimizar o problema. Ainda assim, muitas escolas faziam plantões para entrega das atividades impressas (a equipe diretiva entregava as atividades e marcava uma data de retorno).
+
 ***Problema 3:**
  a internet móvel se mostrou bastante instável, principalmente em momento de "pico", nas horas de aula, em todo o estado, o que inviabilizou o acesso de muitas pessoas e tornou a entrega das atividades ainda mais complexa.
+
 ***Problema 4:**
  as bandeiras deveriam ser o ponto de partida, mas, além disso o Estado deveria providenciar diversos EPIs para as escolas. Nada disso foi feito de forma satisfatória, a ponto de que o CPERS (sindicato dos professores do RS) ganhou na justiça uma liminar proibindo a volta às aulas por falta de segurança sanitária (que depois teve algumas reviravoltas).
+
 ***Problema 4:**
  o protocolo de distanciamento social exige que as salas de aula não sejam usadas em sua capacidade total, assim, nem em uma situação ideal teríamos todos os alunos tendo aula ao mesmo tempo. A solução inicial era dividir em partes as turmas e, enquanto uma parte tem aula presencial a(s) outra(s) teriam aulas remotas. O problema era conseguir professor suficiente pra isso. Mais uma iniciativa que nunca saiu do papel.
+
 ***Problema 5:**
  com a óbvia infecção de diversos funcionários e professores, o déficit de pessoal nas escolas foi ficando cada vez maior na rede municipal (a rede estadual não chegou a voltar às aulas por causa da liminar) e a maioria das prefeituras acabou não retomando as aulas e esse ano vai ser "contínuo" com o ano que vem.
+
 ***Problema 6:**
  com a retomada da provável segunda onda da COVID19 as bandeiras do modelo de distanciamento social do estado estão voltando aos padrões de junhojulho e a maioria das regiões, ou as mais populosas, começaram a retornas à bandeira vermelha (o que deveria impedir as aulas), contudo, a maioria das escolas privadas e municipais que voltaram às aulas não quer interromper as aulas nesse momento e, sendo assim, o governador resolveu que "não dá pra interromper mais as aulas" ignorando os riscos que as escolas trazem e jogando no lixo tudo o que se "planejou" para a volta às aulas.
 
-wp:list
-
-
-
-
-~~
-
-
-
-
-
+~
 
 **Algumas referências sobre o que eu falei (todas da ZH):**
 
