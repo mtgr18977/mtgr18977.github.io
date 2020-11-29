@@ -1,9 +1,9 @@
-title: Moving # The title of the blog
-author: Your Name # Your name 
-email: your-email@domain.com # your email shown in the footer
-url: http://huangyz.name/moving/ # this is your site's root address.
+title: spamm0r # The title of the blog
+author: Paulo # Your name 
+email: guilhermepilotti # your email shown in the footer
+url: http://www.spammor.xyz # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
-  A clean and minimalist theme for Jekyll.
+  here be dragons
 favicon: "./favicon.ico" # set the favicon of the site 
 
 show_excerpts: false # set to true to show excerpts on the homepage
@@ -18,14 +18,14 @@ moving:
 
   # generate social links in about page.
   social_links:
-    # twitter: 
-    github:  huangyz0918
+    twitter: paulo_pilotti
+    github:  mtgr18977
     rss: RSS
     # dribbble: 
-    facebook: huangyz0918
+    facebook: paulopilottiduarte
     # flickr:   
-    # instagram: 
-    linkedin: yizheng-huang
+    instagram: paulopilottiduarte
+    # linkedin: yizheng-huang
     # pinterest: 
     # youtube: 
     # youtube_channel: 
@@ -43,7 +43,7 @@ moving:
     #   instance: 
 
 # Build settings
-theme: moving # note, please use huangyz0918/moving if you want to publish to Github Pages.
+remote_theme: huangyz0918/moving
 
 plugins:
   - jekyll-feed
