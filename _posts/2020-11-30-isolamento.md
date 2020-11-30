@@ -12,4 +12,6 @@ Como mais esperado ainda, os índices continuam baixos. Meu chute é que vão pi
 
 Não que o cenário não seja desesperador o suficiente nesse exato momento.
 
-![RS](https://scontent.fpoa1-1.fna.fbcdn.net/v/t1.0-9/128429699_10157977696345945_4748964639240450862_n.jpg?_nc_cat=107&ccb=2&_nc_sid=730e14&_nc_eui2=AeGHo-iWuNhlbNhQ_R4qwOvkwz7S4_dbgknDPtLj91uCSS9RzhtsdHG6blymufSkqNw&_nc_ohc=NevRiC_806EAX-5azaU&_nc_ht=scontent.fpoa1-1.fna&oh=432f46f881a043999375028354159886&oe=5FE980C4)
+![RS](https://distanciamentocontrolado.rs.gov.br/wp/wp-content/uploads/2020/11/Mapa_Bandeiras_1_a_7_DEZ.png)
+
+>limitar o horário de funcionamento do comércio e de restaurantes. Essas empresas, contudo, poderiam seguir abrindo nos mesmos dias da semana em que operam hoje. A "vedação à permanência em locais públicos sem controle de acesso (ruas, praias, praças)" também está na lista de propostas do Palácio Piratini. Em âmbito privado, o governo do Estado sugere que as reuniões familiares e de amigos tenham aglomeração máxima de 10 pessoas, não contando crianças até 14 anos. Outra alteração proposta é suspender temporariamente a cogestão — mecanismo que permite que as regiões do Estado decidam por conta própria adotar restrições mais leves do que as determinadas pelo Palácio Piratini. Na prática, se a cogestão for suspensa, as regras da bandeira vermelha passarão a valer integralmente.
