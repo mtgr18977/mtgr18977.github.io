@@ -8,10 +8,7 @@ Sempre fui fascinado pelo “terror espacial”, desde a época do “O Enigma d
 [rNoSleep](https:www.reddit.comrnosleepcommentsj8xty9trilobite) e, depois de ler de madrugada, resolvi que era hora de traduzi-lo (e até mexer em algumas coisas, criando uma versão do conto em português). A história é interessante e a minúcia do autor original (
 [creepypossum](https:www.reddit.comusercreepypossum)) com os detalhes biológicos e fisiológicos dos animais é deveras interessante.
 
-
-
-
-
+***
 
 Alguns anos atrás fui chamado para investigar o chamado de um corpo encontrado às 7h de uma manhã de domingo, no dia 28 de setembro, há cerca de cinco quilômetros ao sul de Ithaca, NY. O chamado veio de uma pessoa comum que passava se exercitando. Ela havia encontrado um corpo aninhado ao longo da borda sul de um desfiladeiro lamacento, raso e suavemente inclinado na floresta do Parque Estadual Robert Treman, em um canto normalmente fora da vista de uma trilha curta. Chegamos ao pequeno estacionamento próximo ao início da trilha e, depois de caminhar um pouco mais de meio quilometro pela trilha, chegamos ao canto onde o corpo estava e podemos ver quem era e qual era a situação: um homem de 28 anos, agachado de bruços sobre um pequeno patamar coberto de areia enterrado na encosta, não mais do que alguns metros abaixo do nível da trilha e talvez há dez metros do riacho abaixo. A condição do corpo sugeria que ele estava morto há pouco mais de um dia. Seu carro estava parado no estacionamento, então ele deve ter entrado no parque na noite antes deste fechar. Nenhum dos policiais do parque o tinha visto — ele deve ter passado a maior parte de sua última noite no local onde morreu.
 
