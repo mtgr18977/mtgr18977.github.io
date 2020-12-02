@@ -12,6 +12,7 @@ tags:
 Durante anos muitos jogadores venezuelanos têm ganhado a vida jogando RuneScape de forma escrava.
 
 ![](https://cdn-images-1.medium.com/max/2560/1*9iw51X9xN0ZvF7bJDGlHuw.png)
+
 Por [Mat Ombler](https://www.polygon.com/users/Mat%20Ombler) | 27 de maio de 2020 com ilustrações de [Sonny Ross](http://www.sonnyross.com/) para a Polygon
 
 A Venezuela costumava ser um dos países mais ricos da América do Sul, contudo passou os últimos 10 anos envolvida em uma crise política e econômica. O que começou como o desmoronamento gradual da economia do país em 2010 se transformou em uma avalanche devastadora de crime, corrupção e fome em massa que acabou deixando milhões de pessoas no país incapazes de se alimentar ou acessar suprimentos médicos básicos. Noventa por cento dos venezuelanos agora vivem na pobreza em um dos períodos mais extremos e sustentados de hiperinflação já registrados. Isso, atualmente, significa que as pessoas que trabalham ganhando um salário mínimo estão ganhando o equivalente a $5 por mês.Contra esse cenário econômico e social cataclísmico, milhões de pessoas fugiram do país em busca de vidas melhores, com muitos tentando desesperadamente encontrar seus próprios meios de fuga. Em novembro de 2019, o número de [refugiados e migrantes venezuelanos atingiu 3 milhões](https://www.unhcr.org/uk/news/press/2018/11/5be4192b4/number-refugees-migrants-venezuela-reaches-3-million.html). 
@@ -53,6 +54,7 @@ farmado pelos venezuelanos. A economia dentro de RuneScape é como qualquer outr
 RuneScape está afetando os preços de vários itens diferentes. A extensão desse impacto tornou-se aparente quando a crise na Venezuela atingiu um novo nível no início do ano passado.
 
 ![](https://cdn-images-1.medium.com/max/1200/1*9UYqP3KgiQu4bnNlp_b91w.jpeg)
+
 **COMO A CRISE ECONÔMICA NA VENEZUELA CAUSOU UMA CRISE ECONÔMICA EM RUNESCAPE**
 
 Em março de 2019 a rede elétrica da Venezuela entrou em colapso e todo o país foi atingido por uma rápida sucessão de apagões, deixando milhões sem energia ou água. No seu auge, em março, esses apagões ocorriam quase que a cada hora durante uma semana. Os hospitais foram alguns dos piores lugares afetados.“Muita gente morreu por causa dos cortes de energia”, explica Martinez. Os problemas ainda estão afetando as pessoas hoje, e alguns acreditam que continuarão no futuro, até que a situação com o governo seja resolvida.“[As pessoas] não podem receber tratamentos básicos como diálise, e as condições dos hospitais são insanamente ruins”, acrescenta Martinez.Os cortes de energia se tornaram um grande problema para os jogadores venezuelanos que contam com o jogo como sua principal fonte de renda. Para Martinez, os cortes de energia foram a razão pela qual ele se afastou dos métodos tradicionais de 
