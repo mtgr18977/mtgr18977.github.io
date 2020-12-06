@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Todos somos piratas
+title: Depressão
 tags: []
 ---
 
