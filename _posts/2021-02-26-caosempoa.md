@@ -10,14 +10,15 @@ Os canalhas sempre vencem, ao que parece.
 
 Mas voltamos ao assunto principal que é a rápida ascensão do corona vírus no RS e em Porto Alegre. Hoje acordamos com 420 internado por COVID nas UTI's da cidade. Número maior do que o limite teórico máximo de 383. Ao mesmo tempo, já estamos com 472 suspeitos + confirmados e 593 entre suspeitos + confirmados + aguardando leito na UTI. 210 a mais do que o magico número de 383. Mas mesmo assim a cidade não entrou em colapso, segundo as autoridades oficiais e as aulas só foram suspensas em sua retomada devido à uma ação do MPRS.
 
-![](https://i.imgur.com/L85Glpd.png)
-
 A situação no RS nos últimos 7 dias escalou sobremaneira. Somos o pior estado da federação nessa semana de pandemia. E a tendência, assim como todas as cidades que distribuíram o "kit COVID", é de piora no curto prazo. Faltam pontos de O2 nos hospitais e o plano de contingenciamento do governo prevê uso de qualquer espaço como UTI.
 
-| ![](https://i.imgur.com/cZFhv7h.jpg) | ![](https://i.imgur.com/kJT7XFR.jpg) |
-| ------------------------------------ | :----------------------------------: |
-| ![](https://i.imgur.com/Vh649n3.jpg) | ![](https://i.imgur.com/A2DwX3p.jpg) |
-| ![](https://i.imgur.com/gUySYsT.jpg) |                                      |
+![](https://i.imgur.com/kJT7XFR.jpg)
+
+![](https://i.imgur.com/Vh649n3.jpg)
+
+![](https://i.imgur.com/A2DwX3p.jpg)
+
+![](https://i.imgur.com/gUySYsT.jpg)
 
 Tardiamente, o governador colocou o estado inteiro em bandeira preta (risco altíssimo de contágio) e cancelou o sistema de cogestão (que na teoria deveria servir para amenizar distorções das regiões mas, na prática, serviu apenas para criar mecanismo ideológicos de distribuição de remédios sem eficácia e de pressão dos lojistas e diretores de escolas privadas).
 
