@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Plataformas e mais pataformas
+title: Somos o caos
 tags: []
 ---
 
