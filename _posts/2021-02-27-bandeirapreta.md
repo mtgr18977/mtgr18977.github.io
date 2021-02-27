@@ -4,7 +4,9 @@ title: Bandeira Preta e morte.
 tags: []
 ---
 
-![](https://i.imgur.com/DQoXdcc.png)
+| ![](https://i.imgur.com/DQoXdcc.png) |
+| :----------------------------------: |
+|                                      |
 
 > ### "É horrível, a gente não sabe o que pode acontecer"
 >
