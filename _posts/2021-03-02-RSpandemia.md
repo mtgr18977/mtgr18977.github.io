@@ -4,9 +4,9 @@ title: Entenda quanto o RS recebeu do governo federal em verbas extras durante a
 tags: []
 ---
 
-## Embora Bolsonaro tenha  dito que a União enviou R$ 40,9 bilhões ao RS em 2020, governo do Estado informa que R$ 3,05 bilhões foram de fato recursos extraordinários na  crise sanitária
+Embora Bolsonaro tenha  dito que a União enviou R$ 40,9 bilhões ao RS em 2020, governo do Estado informa que R$ 3,05 bilhões foram de fato recursos extraordinários na  crise sanitária
 
-### [Retirado da Zero Hora de hoje (02/03)](https://gauchazh.clicrbs.com.br/politica/noticia/2021/03/entenda-quanto-o-rs-recebeu-do-governo-federal-em-verbas-extras-durante-a-pandemia-e-como-foi-usado-o-dinheiro-ckls1d3yr002i0166d53ixqd0.html)
+[Retirado da Zero Hora de hoje (02/03)](https://gauchazh.clicrbs.com.br/politica/noticia/2021/03/entenda-quanto-o-rs-recebeu-do-governo-federal-em-verbas-extras-durante-a-pandemia-e-como-foi-usado-o-dinheiro-ckls1d3yr002i0166d53ixqd0.html)
 
 ***
 
@@ -14,9 +14,9 @@ tags: []
 
 **R$ 3,05 bilhões**
 
-### **Como se dividiu o dinheiro**
+### Como se dividiu o dinheiro
 
-### **1) Recurso de uso livre, para repor perdas econômicas e não comprometer serviços**
+### 1) Recurso de uso livre, para repor perdas econômicas e não comprometer serviços
 
 **R$ 2,149 bilhões**, assim discriminado:
 
@@ -53,7 +53,7 @@ Todo o dinheiro repassado com o carimbo da saúde foi utilizado, segundo o gover
 
 O dinheiro foi viabilizado pela Lei Aldir Blanc, aprovada por iniciativa do Congresso Nacional, para ajudar a indústria da cultura, uma das muitas afetadas pela crise. Por meio dela, os profissionais gaúchos receberam R$ 75 milhões. O valor foi integralmente aplicado pela Secretaria da Cultura em projetos vencedores dos editais previstos na lei.
 
-### **E os R$ 40,9 bilhões, citados por Bolsonaro?**
+### E os R$ 40,9 bilhões, citados por Bolsonaro?
 
 ![img](https://telegra.ph/file/e83967548ef399b271c90.png)
 
